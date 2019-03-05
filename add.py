@@ -1,4 +1,6 @@
 a=3
 b=5
-c=a+b
+d=4
+c=a+b+d
 print(c)
+
