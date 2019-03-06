@@ -1,8 +1,7 @@
-def add(a,b):
-    z=a+b
-    return z
+import addmodule
+
 
 a=10
 b=20
-c=add(a,b)
+c=addmodule.add(a,b)
 print(c)
